@@ -18,12 +18,14 @@ namespace IoC2.Controllers
         }
         
         [HttpGet("Get")]
+        //[Cached(600)]
         public IEnumerable<Employee> GetEmployees()
         {
             return _employeeRepository.Get();
         }
 
         [HttpGet("Get/{id}")]
+        //[Cached(600)]
         public Employee GetEmployeeById(int id)
         {
             return _employeeRepository.GetById(id);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nnfclh9R0+v4nQOvwUo2PnXGxONRoNu3PVFMXOBIrZmBv43PYslxXD4EFko3x5bKXJ9r6M7YyAI2salcrtAaIg==",
+  "dgSpecHash": "ZNt2lt7F51jnIgSeG73AZI59cOzvnMUfLBN9HAfF7JFmXPOKqXhUscijxYhHQNrrDe48Dbp4ahNEf6ZlnCx2zA==",
   "success": true,
-  "projectFilePath": "C:\\Work\\IoC2\\IoC2\\IoC2.csproj",
+  "projectFilePath": "C:\\Work\\SandBox\\Learning Curve\\IoC-Demo\\IoC2\\IoC2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikola.jontes\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\nikola.jontes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

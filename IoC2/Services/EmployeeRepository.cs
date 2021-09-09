@@ -30,5 +30,11 @@ namespace IoC2.Repositories
             string query = "SELECT * FROM employees WHERE Id = @id";
             return _dbConnection.Query<Employee>(query, new {id}).FirstOrDefault();
         }
+
+        void CorrectUsername()
+        {
+            
+        }
     }
+    
 }
